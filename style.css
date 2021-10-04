@@ -1,0 +1,145 @@
+/* navBar start here */
+.navBaerCss{
+    background-color: #FFF2DC;
+}
+.navBaerCss img {
+    height: 37px;
+}
+.cssNavBtn{
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+/* navBar end here */
+
+/* banner start here */
+#banner h1 {
+    font-size: 60px;
+}
+#banner{
+    background-color: #FFF2DC;
+    height: auto;
+}
+#banner button {
+    height: 43px;
+    width: 200px;
+    border: none;
+    background: #272556;
+    color: #fff;
+    border-radius: 22px;
+}
+/* banner end here */
+/* customar start here */
+#customers img{
+}
+/* customar end here */
+/* manage customar start here */
+#manageCustomers h1 {
+    font-size: 45px;
+}
+#manageCustomers{
+    background-color: #F9F8F8;
+}
+#manageCustomers button {
+    height: 43px;
+    width: 115px;
+    border: none;
+    background: #272556;
+    color: #fff;
+    border-radius: 22px;
+}
+/* manage customar end here */
+/* anyone start here */
+#anyone h1 {
+    font-size: 38px;
+}
+/* anyone end here */
+/* clients start here */
+#clients{
+    background-color: #F9F8F8;
+}
+.cssClients{
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    cursor: pointer;
+}
+.cssClients:hover{
+    background-color: rgb(110, 102, 102, 0.3);
+    transform: translateY(10px);
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
+}
+/* clients end here */
+/* sign up start here */
+#signup{
+    background-color: #272556;
+}
+#signup button {
+    height: 43px;
+    width: 200px;
+    border: 2px solid #fff;
+    color: #fff;
+    background: #272556;
+    border-radius: 22px;
+}
+/* sign up end here */
+/* pricing start here */
+#pricing{
+    background-color: #F9F8F8;
+}
+.pricingCard{
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.pricingCard img {
+    height: 114px;
+    width: 43px;
+}
+.pricingCard h3{
+    display: inline-block;
+}
+.pricingCard span{
+    font-size: 14px;
+}
+.pricingCard h2{font-size: 38px;}
+.pricingCard button{
+
+}
+.pricingCard button {
+    height: 43px;
+    width: 108px;
+    border: none;
+    background: #272556;
+    color: #fff;
+    border-radius: 22px;
+}
+.pricingCard{
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+.pricingCard:hover{
+    transform: translateY(30px);
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(30px);
+    -ms-transform: translateY(30px);
+    -o-transform: translateY(30px);
+}
+/* pricing end here */
+/* details start here */
+#details{
+    background-color: #272556;
+}
+/* details end here */
